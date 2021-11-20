@@ -1,1 +1,1 @@
-(docs site)[https://andnasnd.github.io]
+https://andnasnd.github.io
